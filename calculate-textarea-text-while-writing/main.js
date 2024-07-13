@@ -13,7 +13,7 @@ myTextarea.onkeyup = function() {
 
 // 2 Code If Short
 
-// mySpan = document.getElementById('mySpan');
+// my.Span = document.getElementById('mySpan');
 // document.getElementById('myText').onkeyup = function() {
 // 'use strict';
 

@@ -17,6 +17,6 @@ myTextarea.onkeyup = function() {
 // document.getElementById('myText').onkeyup = function() {
 // 'use strict';.
 
-// mySpan.textContent = 50 - this.value.length;
+// mySpan.textConte.nt = 50 - this.value.length;
 // mySpan.textContent < 0 ? mySpan.style.color = '#F00' :  mySpan.style.color = '#000';
 // };.

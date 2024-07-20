@@ -21,4 +21,11 @@ myTextarea.onkeyup = function() {
 // mySpan.textC
 hjygjh//..ontent < 0 .? m...main hgf
 ySpan.style.color = '#F00' :  mySpan.style.color = '#000';
-// };.
+// };.//////
+////////////
+'''''''''''
+..............
+,,,,,,,,,,,,,
+.............
+///////////
+

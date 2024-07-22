@@ -45,6 +45,12 @@ ySpan.style.color = '#F00' :  mySpan.style.color = '#000';
 
 #weight-guide{
     margin-left: 75px;
-    margin-top: 25px;
-}
+    margin-tokjhgjgjhgjhg
+////////p: 25px;
+}////////////////////
+////////////////////
+////////////////////
+/////////////////////
+/////////////////
+
 
